@@ -1,8 +1,8 @@
 ---
 title: "JavaのBigDecimalとScalaのBigDecimalで.toStringの表記が少し違う"
 emoji: "👀"
-type: "tech" # tech: 技術記事 / idea: アイデア
-topics: ["java"|"scala"]
+type: "tech"
+topics: ["java","scala"]
 published: false
 ---
 
