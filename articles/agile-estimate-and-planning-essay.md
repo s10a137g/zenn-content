@@ -3,7 +3,8 @@ title: "見積りの難しさ 〜「アジャイルな見積りと計画づく�
 emoji: "🌊"
 type: "idea" # tech: 技術記事 / idea: アイデア
 topics: [アジャイル, 見積もり]
-published: false
+published: true
+published_at: 2024-09-09 12:00
 publication_name: nextbeat
 ---
 
