@@ -4,6 +4,7 @@ emoji: "🔁"
 type: "tech" # tech: 技術記事 / idea: アイデア
 topics: ["bigquery", "salesforce", "googlecloud"]
 published: true
+publication_name: nextbeat
 ---
 
 [BigQuery Data Transfer Service（DTS）の Salesforce 連携ドキュメント](https://cloud.google.com/bigquery/docs/salesforce-transfer)を読んでいたら、転送モードに「全量投入」と「差分投入（プレビュー）」の2つがあることに気づきました。
